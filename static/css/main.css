@@ -1,0 +1,80 @@
+.body {
+	background: #e6e6ff !important;
+}
+
+p{
+	font-size: 18px;
+}
+
+h2 {
+	text-align: center;
+	padding-bottom: 0;
+}
+
+.btn-download {
+	float: right;
+	padding-top: 7px;
+	padding-bottom: 5px;
+}
+
+.img-left {
+	margin: 20px 20px 10px 50px;
+   	padding: 0;
+   	float: center;
+   	position: relative;
+}
+.jumbotron{
+	text-align: left;
+	background: #FAAC58;
+	margin-bottom: 0;
+}
+
+.name {
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+
+.name .text-color {
+	color: #e6e6ff !important;
+}
+
+.row-nav {
+	background: #e6e6ff !important;
+}
+
+.nav li a {
+	color: #FAAC58;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.row-portfolio {
+	background:#e6e6ff !important;
+}
+
+.resume {
+	text-align: center;
+}
+
+.row-skills {
+	background:#e6e6ff !important;
+}
+
+.skills {
+	font-size: 18px !important;
+}
+
+.skills li {
+	padding-top: 10px;
+	padding-bottom: 10px; 
+}
+
+.contacts {
+	text-align: center; 
+}
+
+footer {
+	background: #737373;
+	color: #ffffff;
+}
